@@ -6,7 +6,7 @@ subtitle: <a href=''>Microsoft Research</a>. <a href='https://www.iiit.ac.in/'>I
 
 profile:
   align: right
-  image: Bhavyajeet.jpeg
+  image: bhavyajeet.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
 
