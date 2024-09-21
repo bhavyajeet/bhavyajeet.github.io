@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href=''>Microsoft Research</a>. <a href='https://www.iiit.ac.in/'>IIIT Hyderabad</a> 
+subtitle: <a href=''>Microsoft Research</a> | <a href='https://www.iiit.ac.in/'>IIIT Hyderabad</a> 
 
 profile:
   align: right
