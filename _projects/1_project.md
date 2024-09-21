@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Computer Vision toolkit
+description: a Computer Vision toolkit for tasks like image mosiacing, background removal (using GrabCut), and Scene recognition (using bag-of-visual-words approach).
 img: assets/img/12.jpg
 importance: 1
 category: work

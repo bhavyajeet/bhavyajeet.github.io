@@ -1,14 +1,16 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - bhavyajeet
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - bhavyajeet/XFLT
+  - tushar117/XAlign
+  - bhavyajeet/3c-citation_text_classification
+  - bhavyajeet/Reddit_Music_Discourse
+  - bhavyajeet/CLFE
+  - bhavyajeet/PositivePanda
+  - bhavyajeet/Wikipedia-SearchEngine
+  - bhavyajeet/Project-PreQL
+  - abhishek0508/scproject
+  - bhavyajeet/C-shell
